@@ -1,0 +1,78 @@
+----------------------------------------------------------------------
+Program has started
+----------------------------------------------------------------------
+Letter Frequencies in English are below
+a,8.2
+b,1.5
+c,2.8
+d,4.2
+e,12.7
+f,2.2
+g,2
+h,6.1
+i,7
+j,0.1
+k,0.8
+l,4
+m,2.4
+n,6.7
+o,7.5
+p,1.9
+q,0.1
+r,6
+s,6.3
+t,9
+u,2.8
+v,1
+w,2.4
+x,0.1
+y,2
+z,0.1
+----------------------------------------------------------------------
+Vigenere example is running.
+----------------------------------------------------------------------
+Letter Frequencies of vigenere cipher are below
+a,3.64742
+b,1.97568
+c,0.911854
+d,1.21581
+e,8.05471
+f,2.27964
+g,2.88754
+h,5.31915
+i,5.92705
+j,3.34347
+k,4.71125
+l,6.68693
+m,4.40729
+n,2.12766
+o,2.27964
+p,4.25532
+q,0.759878
+r,5.0152
+s,4.55927
+t,5.92705
+u,1.51976
+v,5.0152
+w,3.79939
+x,6.38298
+y,3.49544
+z,3.49544
+
+----------------------------------------------------------------------
+Key length is being calculated.
+7,16
+Possible length of key is: 7
+----------------------------------------------------------------------
+Letter frequencies of every 7th word
+Decrypted shift value is: 7 with value 17.9904
+Decrypted shift value is: 19 with value 14.8106
+Decrypted shift value is: 22 with value 16.9298
+Decrypted shift value is: 0 with value 17.066
+Decrypted shift value is: 7 with value 21.4702
+Decrypted shift value is: 9 with value 18.1096
+Decrypted shift value is: 22 with value 18.6691
+Key is: theatre
+----------------------------------------------------------------------
+Decryption starts now.
+no original manuscripts of shakespeares plays are known to exist today it is actually thanks to a group of actors from shakespeares company that we have about half of the plays at all they collected them for publication after shakespeare died preserving the plays these writings were brought together in what is known as the first folio shakespeares legacy is as rich and diverse as his work his plays have spawned countless adaptations across multiple genres and cultures his plays have had an enduring presence on stage and film his writings have been compiled in various iterations of the complete works of william shakespeare which include all of his plays sonnets and other poems william shakespeare continues to be one of the most important literary figures of the english language¤ÿ
