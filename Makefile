@@ -1,4 +1,4 @@
 all:
-	g++ -O3 -s main.cpp -o main.cgi
+	g++ -std=c++17 -O3 main.cpp -o main
 clean:
-	rm -f main.cgi
+	rm -f main

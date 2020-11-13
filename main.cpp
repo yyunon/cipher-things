@@ -227,7 +227,7 @@ inline auto kasiski_test(const char* input)
 }
 
 
-constexpr double coincidence_index_cipher(const char* inp, int offset= 0, int scale =1) 
+double coincidence_index_cipher(const char* inp, int offset= 0, int scale =1) 
 {
   HashMap<char, double, 26> l_f={{
     {alphabet[0], 0} ,
@@ -274,7 +274,7 @@ constexpr double coincidence_index_cipher(const char* inp, int offset= 0, int sc
   }
   return acc/static_cast<double>(scaled_n * (scaled_n-1));
 };
-constexpr auto calculate_frequency(const char* inp, int offset= 0, int scale =1) 
+auto calculate_frequency(const char* inp, int offset= 0, int scale =1) 
 {
   HashMap<char, double, 26> l_f={{
     {alphabet[0], 0} ,
